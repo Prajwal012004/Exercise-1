@@ -1,7 +1,7 @@
 # Exercise-1
 
 
- This program adds two numbers given by the user
+## This program adds two numbers given by the user
 
 Taking input from the user
 num1 = input("Enter first number: ")
